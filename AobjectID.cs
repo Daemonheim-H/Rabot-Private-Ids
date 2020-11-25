@@ -108,8 +108,22 @@
         public const int BUSH_PATCH = 7577;
         public const int TREE_PATCH = 8389;
 
-        // 
-
+        // Lodestones
+        public const int ARDOUGNE_LODESTONE = 69830;
+        public const int LUMBRIDGE_LODESTONE = 69836;
+        public const int ALKHARID_LODESTONE = 69829;
+        public const int DRAYNOR_LODESTONE = 69833;
+        public const int FALADOR_LODESTONE = 69835;
+        public const int VARROCK_LODESTONE = 69840;
+        public const int EDGEVILLE_LODESTONE = 69834;
+        public const int CANIFIS_LODESTONE = 84748;
+        public const int TAVERLEY_LODESTONE = 69839;
+        public const int BURTHORPE_LODESTONE = 69831;
+        public const int FREMENIK_PROVINCE_LODESTONE = 84750;
+        public const int SEERS_VILLAGE_LODESTONE = 69838;
+        public const int YANILLE_LODESTONE = 69841;
+        public const int OOGLOG_LODESTONE = 84752;
+        public const int KARAMJA_LODESTONE = 84751;
 
         // MISC - Write comments after each line to explain what it does.
         public const int PIPE = 113238; // PIPE_(Number) = Repairable pipes in Falador smithing guild
