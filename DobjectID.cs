@@ -8,6 +8,7 @@
         public const int MATERIAL_CART = 116295;
         public const int MATERIAL_CART_INFERNAL_SOURCE  = 116294;
         public const int MATERIAL_CART_ALKHARID_ET_CHAPEL = 116293;
+        public const int DIG_SITE_MAP = 116436; // Request from Bum-Ju
 
         // Material Cache
         public const int MATERIAL_CACHE_COBALT_BLUE         = 116415;
@@ -20,6 +21,7 @@
         public const int MATERIAL_CACHE_SILVERLIGHT         = 116418;
         public const int MATERIAL_CACHE_ANCIENT_VIS         = 116432;
         public const int MATERIAL_CACHE_SAMITE_SILK         = 116399;
+        public const int MATERIAL_CACHE_YIUBIUSK_CLAY       = 116391; // Request from Bum-Ju
 
 
 
@@ -43,7 +45,8 @@
         public const int PRODROMOI_REMAINS = 116660;
         public const int GRAVE_MARKER = 116645;
         public const int MONOCEROS_REMAINS = 116662;
-
+        public const int GRAVITRON_RESEARCH_DEBRIS = 117209; // Graviton Research Debris - Request from Bum-Ju
+        public const int TAILORY_DEBRES_STORMGUARD_CITADEL = 11205; // Tailory Debres in Stormguard Citadel - Request from Bum-Ju
 
 
         public const int FDWARVEN_MINE_LADDER_CLIMB_DOWN = 2113;

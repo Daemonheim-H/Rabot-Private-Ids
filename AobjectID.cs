@@ -73,6 +73,8 @@
         public const int VENATOR_REMAINS = 117100;
         public const int PYLON = 116957;
         public const int MATERIAL_STORAGE_CONTAINER = 116439;
+        public const int MYSTERIOUS_MONOLITH = 115416;
+        
 
         
         // WoodCutting
@@ -103,10 +105,13 @@
         public const int MAGIC_TREE_2 = 63178;
         public const int MAGIC_TREE_3 = 63177;
 
+        public const int ELDER_TREE = 87530;
+
 
         // Farming
         public const int BUSH_PATCH = 7577;
         public const int TREE_PATCH = 8389;
+        public const int CALQUAT_PATCH = 7807;
 
         // Lodestones
         public const int ARDOUGNE_LODESTONE = 69830;
@@ -131,7 +136,15 @@
         public const int PIPE_3 = 113253; // PIPE_(Number) = Repairable pipes in Falador smithing guild
         public const int PIPE_4 = 113248; // PIPE_(Number) = Repairable pipes in Falador smithing guild
         public const int PIPE_5 = 113243; // PIPE_(Number) = Repairable pipes in Falador smithing guild
-
+        public const int STORMGUARD_PORTAL = 117130; // Stormguard Portal - Request from Bum-Ju
+        public const int DESTROYED_GOLEM_STORMGUARD_CITADEL = 117215; // Destroyed golem in Stormguard Citadel - Request from Bum-Ju
+        public const int WEAPONS_RESEARCH_STORMGUARD_CITADEL = 117207; // Weapon Research in Stormguard Citadel - Request from Bum-Ju
+        public const int IKOVIAN_MEMORIAL_STORMGUARD_CITADEL = 117201; // Ikovian Memorial in stormguard Citadel - Request from Bum-Ju
+        public const int KESHIK_GET_STORMGUARD_CITADEL_BRIDGE_EDGE = 117137; // Keshik Stormguard Citadel Bridge edge - Request from Bum-Ju
+        public const int TRAVERSEGAP_TOWARD_KESHIK_GER_STORMGUARD_CITADEL = 117179; // TraverseGap Stormguard Citadel - Request from Bum-Ju
+        public const int TRAVERSEGAP_TOWARD_KESHIK_GER_STORMGUARD_CITADEL_2 = 117180; // TraverseGap Stormguard Citadel - Request from Bum-Ju
+        public const int DEPOSIT_ALL_STORAGE_CONTAINER_WARFORGE = 116439; // Deposit all in Warforge - Request from Bum-Ju
+        public const int ARCH_WORKBENCH_WARFORGE = 115421; // Arch Workbench in Warforge - Request from Bum-Ju
 
     }
 }

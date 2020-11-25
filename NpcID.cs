@@ -8802,6 +8802,8 @@
         public const int PALE_SPRING = 18173;
         public const int RADIANT_WIPS = 18167;
         public const int RADIANT_SPRING = 18190;
+        public const int SEREN_SPIRIT = 26022;
+        public const int DIVINE_BLESSING = 27228;
 
 
         // GRAND_EXCHANGE
