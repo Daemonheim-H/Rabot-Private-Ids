@@ -21,6 +21,17 @@
         public const int LUMINITE_ROCK_2 = 113057;
         public const int LUMINITE_ROCK_3 = 113058;
 
+        public const int COPPER_ROCK = 113148;
+        public const int COPPER_ROCK_2 = 113148;
+        public const int COPPER_ROCK_3 = 113147;
+
+        public const int TIN_ROCK = 113150;
+        public const int TIN_ROCK_2 = 113151;
+        public const int TIN_ROCK_3 = 113149;
+
+        public const int CLAY_ROCK = 113154;
+        public const int CLAY_ROCK_2 = 113152;
+
 
         // Archeology
         public const int VENATOR_REMAINS = 117100;
