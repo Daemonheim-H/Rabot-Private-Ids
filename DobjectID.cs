@@ -9,6 +9,10 @@
         public const int MATERIAL_CART_INFERNAL_SOURCE  = 116294;
         public const int MATERIAL_CART_ALKHARID_ET_CHAPEL = 116293;
         public const int DIG_SITE_MAP = 116436; // Request from Bum-Ju
+        public const int MESH = 115420; // Mesh at the Arch Tutorial Area
+        public const int MESH_1 = 115420; // Mesh at the Arch Tutorial Area
+        public const int MESH_2 = 115419; // Mesh at the Arch Tutorial Area
+        public const int SCREENING_STATION = 115418; // Screening Station at Arch Tutorial Area
 
         // Material Cache
         public const int MATERIAL_CACHE_COBALT_BLUE         = 116415;

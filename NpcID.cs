@@ -8813,5 +8813,12 @@
         // FISHING
         public const int NET_SWARM = 25220;
         public const int MENAPHOS_BAIT_FISHING_PORT_DISTRACT = 24572;
+
+        // ARCHEAOLOGY
+        public const int ARCHAEOLOGY_TUTOR = 26927;
+        public const int ARCHAEOLOGY_TUTOR_2 = 26929;
+        public const int VELUCIA = 26924;
+        public const int ACTING_GUILDMASTER = 26930;
+        public const int ACTING_GUILDMASTER_2 = 26931;
     }
 }
