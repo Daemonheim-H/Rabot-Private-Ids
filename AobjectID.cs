@@ -99,10 +99,16 @@
         public const int OAK_2 = 38739;
         public const int OAK_3 = 38732;
 
+        public const int MAGIC_TREE = 63176;
+        public const int MAGIC_TREE_2 = 63178;
+        public const int MAGIC_TREE_3 = 63177;
+
 
         // Farming
         public const int BUSH_PATCH = 7577;
         public const int TREE_PATCH = 8389;
+
+        // 
 
 
         // MISC - Write comments after each line to explain what it does.
@@ -111,6 +117,7 @@
         public const int PIPE_3 = 113253; // PIPE_(Number) = Repairable pipes in Falador smithing guild
         public const int PIPE_4 = 113248; // PIPE_(Number) = Repairable pipes in Falador smithing guild
         public const int PIPE_5 = 113243; // PIPE_(Number) = Repairable pipes in Falador smithing guild
+
 
     }
 }
